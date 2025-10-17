@@ -12,3 +12,4 @@ Or try the unlimit mode:
 ./wordle.sh unlimit
 ```
 ÄNderung stsiws25_25
+Noch ne Änderung
