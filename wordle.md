@@ -5,6 +5,7 @@ How to use:
 ```
 ./wordle.sh
 ```
+Herzlich Willkommen
 
 Or try the unlimit mode:
 
