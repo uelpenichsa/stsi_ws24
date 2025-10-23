@@ -11,3 +11,4 @@ Or try the unlimit mode:
 ```
 ./wordle.sh unlimit
 ```
+Änderung von Katharina Deinhard am 23.10.25
