@@ -11,3 +11,5 @@ Or try the unlimit mode:
 ```
 ./wordle.sh unlimit
 ```
+Änderung von stsiws26_25 im remote_git_repo
+
