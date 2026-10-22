@@ -2,6 +2,8 @@
 
 How to use:
 
+Hi, ich bin stsiws26_7!
+
 ```
 ./wordle.sh
 ```
