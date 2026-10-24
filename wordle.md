@@ -5,6 +5,7 @@ How to use:
 ```
 ./wordle.sh
 ```
+Änderung von stsiws26_16
 
 Or try the unlimit mode:
 
